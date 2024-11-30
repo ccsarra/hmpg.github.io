@@ -3,8 +3,8 @@
 <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
-<a href="https://ccsarra.github.io/ccgsarra.github.io/">
-<h3><u><i>my 1st qtr portfolio!</u></i></h3></a>
+<a href="https://ccsarra.github.io/ccgsarra.github.io/"></a>
+<h3><u><i>my 1st qtr portfolio!</h3>
 <hr>
 <h1> welcome (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
 <h2> second quarter portfolio!</h2><br>
