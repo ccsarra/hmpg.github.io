@@ -1,6 +1,5 @@
 <html>
 <head> <title> HOME </title> 
-<link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
 <a href="https://ccsarra.github.io/ccgsarra.github.io/">
@@ -16,3 +15,34 @@
 <p><u> reflection! </p></a>
 </body>
 </html>
+<style>
+  body {
+	 background-image: url("grid.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+} 
+h3  {
+	color: #ffffff;
+	text-align: center;
+	font-size: 50px;
+	font-family: hug me tight;
+	}
+h1 {
+	color: #ffffff;
+	text-align: center;
+	font-family: almeira;
+	font-size: 125px;
+}
+h2 {
+	color: #ffffff;
+	text-align: center;
+	font-size: 75px;
+	font-family: hug me tight;
+}
+p {
+	color: #ffffff;
+	text-align: center;
+	font-size: 55px;
+	font-family: hug me tight;
+}
+</style>
